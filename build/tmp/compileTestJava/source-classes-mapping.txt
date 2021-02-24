@@ -1,0 +1,2 @@
+ru/lemas/tasktracker/TasktrackerApplicationTests.java
+ ru.lemas.tasktracker.TasktrackerApplicationTests
